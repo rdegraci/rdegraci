@@ -8,6 +8,8 @@ I've shipped enough real software to recognize the patterns that cause trouble l
 
 Site and case studies: [rodneydegracia.com](https://rodneydegracia.com)
 
+Current development status: [rodneydegracia.com/status-board](https://rodneydegracia.com/status-board/)
+
 ## Projects
 
 - [LoreBuilder CLI](https://rodneydegracia.com/lorebuilder/): A persistent world you can talk to, built as a Python CLI with RAG, Chroma, and SQLite sessions.
