@@ -1,6 +1,10 @@
 # Rodney Degracia
 
-I'm a senior iOS engineer. I also build Python and AI-assisted developer tools, and I write up how each one works.
+I'm a senior iOS engineer, and I've spent many years building and shipping production mobile apps. I work mainly in Swift and SwiftUI, and most of my attention goes to the parts that decide whether an app holds up over time: architecture, concurrency, performance, and how the pieces of the system fit together.
+
+These days I also write code with AI tools like Cursor, Claude, and Codex. They help me move faster, but I still review every change and own the architecture, so the speed doesn't cost me maintainability or correctness on the platform. I especially enjoy writing Python this way. I use it to build developer tools, and I write up how each one works.
+
+I've shipped enough real software to recognize the patterns that cause trouble later, and I keep learning as Apple's frameworks and AI-assisted workflows change. I enjoy mentoring and working through hard technical problems, and I like helping teams ship software they can rely on.
 
 Site and case studies: [rodneydegracia.com](https://rodneydegracia.com)
 
